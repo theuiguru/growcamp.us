@@ -1,2 +1,2 @@
-# growconf.us
+# GROWcamp.us
 GROW Camp 2016 website
