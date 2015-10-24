@@ -1,5 +1,5 @@
 html, body {margin:0; padding:0; font-family:"Indie Flower", "Helvetica Neue", Helvetica, Arial, sans-serif; color:#444;}
-header {color:#fff; /*background-image:linear-gradient(120deg, #c00, #0c0);*/ background:#0A2A0A; padding:15em 0; text-align:center;}
+header {color:#fff; /*background-image:linear-gradient(120deg, #c00, #0c0);*/ padding:15em 0; text-align:center; background:#0A2A0A url(http://neamericandiocese.org/multimedia/images/gallery-items/original/2015-annual-grow-conference-7178.jpg) no-repeat center fixed; box-shadow:inset 0 0 0 1000px rgba(0,0,0,.8); background-size:cover;}
 section {position:relative; padding:80px 0;}
 .about, .map, .register, .sponsors {text-align:center;}
 footer {color:#fff; background:#0A2A0A; padding:1rem; text-align:center;}
