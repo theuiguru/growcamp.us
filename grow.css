@@ -1,0 +1,14 @@
+html, body {margin:0; padding:0; font-family:"Indie Flower", "Helvetica Neue", Helvetica, Arial, sans-serif; color:#444;}
+header {color:#fff; /*background-image:linear-gradient(120deg, #c00, #0c0);*/ background:#0A2A0A; padding:15em 0; text-align:center;}
+section {position:relative; padding:80px 0;}
+.about, .map, .register, .sponsors {text-align:center;}
+footer {color:#fff; background:#0A2A0A; padding:1rem; text-align:center;}
+h1 {font-weight:500; font-size:4em;}
+.left {float:left; width:50%;}
+.right {float:right; width:50%;}
+.pic-box {float:left; width:50%;}
+.pic-box img {max-width:100%; vertical-align:top;}
+h2 {color:#a0a0a0; font-size:30px; text-transform:uppercase; letter-spacing:1px; font-weight:600; padding-top:10px;}
+h3 {font-weight:300; font-size:48px; padding-bottom:31px; letter-spacing:2px;}
+.head-border {height:2px; background: rgb(86, 214, 194); width:87px; margin:auto;}
+.about > p {font-size:23px; line-height:2em; width:70%; margin:auto;}
