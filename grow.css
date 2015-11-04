@@ -8,7 +8,7 @@ nav ul {float:right; margin-right:50px; line-height:40px;}
 nav a {color:#fff; text-decoration:none; padding:25px 20px 25px;     transition:all ease 0.8s;}
 nav a:hover {background:#990000;}
 ul>li {display:inline-block;}
-header {height:600px; padding:10px 20px;}
+header {height:600px; padding:10em 0;}
 section {height:300px; padding:10px;}
 .contact {padding:10px; background:#cc3333; color:#fff; text-align:center;}
 footer img {margin:0 10em;}
