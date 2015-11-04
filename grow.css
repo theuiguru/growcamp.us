@@ -10,6 +10,6 @@ nav a:hover {background:#990000;}
 ul>li {display:inline-block;}
 header {height:600px; padding:10em 0;}
 section {height:300px; padding:10px;}
-.sponsors {text-align:center;}
+.sponsors p {text-align:center;}
 .contact {padding:10px; background:#cc3333; color:#fff; text-align:center;}
 footer img {margin:0 10em;}
