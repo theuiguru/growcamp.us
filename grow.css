@@ -1,14 +1,13 @@
-html, body {margin:0; padding:0; font-family:"Indie Flower", "Helvetica Neue", Helvetica, Arial, sans-serif; color:#444;}
-header {color:#fff; /*background-image:linear-gradient(120deg, #c00, #0c0);*/ padding:15em 0; text-align:center; background:#0A2A0A url(http://neamericandiocese.org/multimedia/images/gallery-items/original/2015-annual-grow-conference-7178.jpg) no-repeat center fixed; box-shadow:inset 0 0 0 1000px rgba(0,0,0,.8); background-size:cover;}
-section {position:relative; padding:80px 0;}
-.about, .map, .register, .sponsors {text-align:center;}
-footer {color:#fff; background:#0A2A0A; padding:1rem; text-align:center;}
-h1 {font-weight:500; font-size:4em;}
-.left {float:left; width:50%;}
-.right {float:right; width:50%;}
-.pic-box {float:left; width:50%;}
-.pic-box img {max-width:100%; vertical-align:top;}
-h2 {color:#a0a0a0; font-size:30px; text-transform:uppercase; letter-spacing:1px; font-weight:600; padding-top:10px;}
-h3 {font-weight:300; font-size:48px; padding-bottom:31px; letter-spacing:2px;}
-.head-border {height:2px; background: rgb(86, 214, 194); width:87px; margin:auto;}
-.about > p {font-size:23px; line-height:2em; width:70%; margin:auto;}
+html, body {margin:0; padding:0; font-family:'Open Sans', Arial, sans-serif;}
+a {color:#660000; text-decoration:underline;}
+a:hover {text-decoration:none;}
+.main {margin:auto; max-width:100%; height:auto; color:#333; position:absolute;}
+nav {position:fixed; width:100%; background:#cc3333; box-shadow:inset 0 1px 0 rgba(255,255,255,0.15),0 1px 5px rgba(0,0,0,0.075);}
+.head {width:50%; float:left; padding:10px; text-align:center; color:#fff; font-size:2em; font-weight:bold; font-family:'Indie Flower', sans-serif;}
+nav ul {float:right; margin-right:50px; line-height:40px;}
+nav a {color:#fff; text-decoration:none; padding:25px 20px 25px;     transition:all ease 0.8s;}
+nav a:hover {background:#990000;}
+ul>li {display:inline-block;}
+header {height:600px; padding:10px 20px;}
+section {height:300px; padding:10px;}
+.contact {padding:10px; background:#cc3333; color:#fff; text-align:center;}
