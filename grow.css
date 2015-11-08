@@ -10,6 +10,7 @@ header {border-bottom:1px solid #ccc; padding-bottom:50px;}
 h1 {font-family:'Indie Flower', cursive, sans-serif; font-size:3em; line-height:10px; float:left;}
 .date {float:right;} .countdown {color:#cc0000; float:right;}
 h2 {font-family:'Lobster', cursive, sans-serif; font-size:3em; font-style:italic; text-align:right; border-bottom:1px dashed #800; padding-bottom:10px;}
+.home>h2 {border:0; text-align:center;}
 .home a {font-size:18px; border:2px solid #fff; border-radius:4px; padding:6px 13px;}
 .home a:hover {background:rgba(205,092,092,0.3); transition:all ease 0.8s;}
 .home {position:relative; overflow:auto; display: block; height:100%; width:100%;}
