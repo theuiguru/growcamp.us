@@ -7,7 +7,7 @@ ul li {display:inline-block; list-style:none; margin:0 20px;}
 .main-wrap {padding-top:50px;}
 .main {margin:0 auto; border-radius:8px; background:rgba(0,0,0,0.5); padding:50px; text-align:center; color:#fff;}
 h1 {font-family:'Indie Flower', cursive, sans-serif; font-size:5em; border-bottom:1px solid #ccc; text-align:right;}
-h2 {font-family:'Indie Flower', cursive, sans-serif; font-size:3em; font-style:italic;}
+h2 {font-family:'Lobster', cursive, sans-serif; font-size:3em; font-style:italic;}
 .main a {font-size:18px; border:2px solid #fff; border-radius:4px; padding:6px 13px;}
 .main a:hover {background:rgba(205,092,092,0.3); transition:all ease 0.8s;}
 .home {position:relative; overflow:auto; display: block; height:100%; width:100%; padding:0;}
