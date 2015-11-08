@@ -11,5 +11,5 @@ h2 {font-family:'Lobster', cursive, sans-serif; font-size:3em; font-style:italic
 .home a {font-size:18px; border:2px solid #fff; border-radius:4px; padding:6px 13px;}
 .home a:hover {background:rgba(205,092,092,0.3); transition:all ease 0.8s;}
 .home {position:relative; overflow:auto; display: block; height:100%; width:100%; padding:0;}
-.about, .rules, .register, .contact {position:relative; overflow:auto; display: none; height:100%; width:100%; padding:0; text-align:left;}
+.about, .rules, .register, .donate, .contact {position:relative; overflow:auto; display: none; height:100%; width:100%; padding:0; text-align:left;}
 .about img {max-width:200px; float:left;}
