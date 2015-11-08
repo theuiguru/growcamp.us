@@ -12,4 +12,4 @@ h2 {font-family:'Lobster', cursive, sans-serif; font-size:3em; font-style:italic
 .home {position:relative; overflow:auto; display: block; height:100%; width:100%;}
 .about, .rules, .register, .donate, .contact {position:relative; overflow:auto; display: none; height:100%; width:100%; text-align:left;}
 .about img {max-width:200px;}
-.donate a {color:#cc3333; text-decoration:underline; font-weight:bold;}
+.donate a, .contact a {color:#09f; text-decoration:underline; font-weight:bold;}
