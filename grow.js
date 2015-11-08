@@ -10,7 +10,7 @@ function show_div(div_id) {
 }
 function countdown() {
   now = new Date();
-  kickoff = Date.parse("June 20, 2014 09:00:00");
+  kickoff = Date.parse("June 17, 2016 0:00:00");
   diff = kickoff - now;
   days = Math.floor( diff / (1000*60*60*24) );
   hours = Math.floor( diff / (1000*60*60) );
