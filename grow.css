@@ -15,6 +15,7 @@ h2 {font-family:'Lobster', cursive, sans-serif; font-size:3em; font-style:italic
 .home a:hover {background:rgba(205,092,092,0.3); transition:all ease 0.8s;}
 .home {position:relative; overflow:auto; display: block; height:100%; width:100%;}
 .about, .speaker, .rules, .register, .donate, .contact {position:relative; overflow:auto; display: none; height:100%; width:100%; text-align:left;}
+.about img {max-width:500px; clear:both; float:left;}
 .speaker img {max-width:200px;}
 .speaker {text-align:center;}
 .donate a, .contact a {color:#606; text-decoration:underline; font-weight:bold;}
