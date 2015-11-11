@@ -18,7 +18,7 @@ h2 {font-family:'Lobster', cursive, sans-serif; font-size:3em; font-style:italic
 .about img {max-width:500px; clear:both; float:left;}
 .speaker img {max-width:200px;}
 .speaker {text-align:center;}
-.about a, .donate a, .contact a {color:#606; text-decoration:underline; font-weight:bold;}
+.about a, .donate a, .contact a, .rules a {color:#606; text-decoration:underline; font-weight:bold;}
 .contact > p:nth-child(2), p:nth-child(3), p:nth-child(4) {text-align:center;}
 .contact > p:nth-child(6), p:nth-child(8) {text-align:right;}
 
