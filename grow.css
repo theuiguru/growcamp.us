@@ -7,6 +7,7 @@ ol li {margin:10px 0;}
 .nav li:hover {border:2px solid #fff; border-radius:4px; padding:6px 13px; background:rgba(205,092,092,0.3); transition:all ease 0.8s;}
 .main {margin:0 auto; border-radius:0 8px; background:rgba(150,100,200,0.9); padding:50px; text-align:center; color:#fff;}
 header {border-bottom:1px solid #ccc; padding-bottom:50px;}
+header img {max-width:100px;}
 h1 {font-family:'Indie Flower', cursive, sans-serif; font-size:3em; line-height:10px; float:left;}
 .date {float:right;} .countdown {color:#0ff; float:right;}
 h2 {font-family:'Lobster', cursive, sans-serif; font-size:3em; font-style:italic; text-align:right; border-bottom:1px dashed #909; padding-bottom:10px;}
