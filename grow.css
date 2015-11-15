@@ -7,7 +7,7 @@ ol li {margin:10px 0;}
 .nav li:hover {border:2px solid #fff; border-radius:4px; padding:6px 13px; background:rgba(205,092,092,0.3); transition:all ease 0.8s;}
 .main {margin:0 auto; border-radius:0 8px; background:rgba(100,0,0,0.7); padding:50px; text-align:center; color:#fff;}
 header {border-bottom:1px solid #ccc; padding-bottom:50px;}
-header img {max-width:400px;}
+header img {max-width:400px; width:100%;}
 h1 {font-family:'Indie Flower', cursive, sans-serif; font-size:3em; line-height:10px; float:left;}
 .date {float:right;} .countdown {color:#FF69B4; float:right;}
 h2 {font-family: 'Oleo Script Swash Caps', cursive; font-weight:500; font-size:3em; font-style:italic; text-align:right; border-bottom:1px dashed #FF69B4; padding-bottom:10px;}
@@ -23,7 +23,8 @@ h2 {font-family: 'Oleo Script Swash Caps', cursive; font-weight:500; font-size:3
 .about a, .donate a, .contact a, .rules a {color:#FF69B4; text-decoration:underline; font-weight:bold;}
 .contact > p:nth-child(2), p:nth-child(3), p:nth-child(4) {text-align:center;}
 .contact > p:nth-child(6), p:nth-child(8) {text-align:right;}
-
+footer {color:#333; padding:5em; text-align:center;}
+footer img {margin:0 50px; padding:0 10px;}
 @media only screen and (max-width:600px) {
   ul li, .nav li a {display:block;}
   h1 {line-height:50px;}
