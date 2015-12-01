@@ -25,6 +25,7 @@ h2 {font-family: 'Oleo Script Swash Caps', cursive; font-weight:500; font-size:3
 .contact > p:nth-child(6), .contact > p:nth-child(8) {text-align:right;}
 footer {color:#333; padding:5em; text-align:center;}
 footer img {margin:0 40px; padding:0 20px;}
+.donate iframe {width:700px; height:500px;}
 @media only screen and (max-width:600px) {
   ul li, .nav li a {display:block;}
   h1 {line-height:50px;}
