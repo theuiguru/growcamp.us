@@ -31,11 +31,11 @@ footer img {margin:0 40px; padding:0 20px;}
 .grid {display:table; width:100%; table-layout:fixed; border-spacing:1rem 0; border:1; border-color:#fff;}
 .col {display:table-cell; text-align:center;}
 .col-1 {width:30%;}
-.grid:nth-child(1) {background:#000; color:#fff;}
-.grid:nth-child(2) {background:#e5e4e2;}
-.grid:nth-child(3) {background:#FFD700;}
-.grid:nth-child(4) {background:#c0c0c0;}
-.grid:nth-child(5) {background:#cd7f32;}
+.grid:nth-child(5) {background:#000; color:#fff;}
+.grid:nth-child(6) {background:#e5e4e2;}
+.grid:nth-child(7) {background:#FFD700;}
+.grid:nth-child(8) {background:#c0c0c0;}
+.grid:nth-child(9) {background:#cd7f32;}
 .benefits {text-align:left;}
 
 @media only screen and (max-width:600px) {
