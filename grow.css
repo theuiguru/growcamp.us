@@ -25,7 +25,19 @@ h2 {font-family: 'Oleo Script Swash Caps', cursive; font-weight:500; font-size:3
 .contact > p:nth-child(6), .contact > p:nth-child(8) {text-align:right;}
 footer {color:#333; padding:5em; text-align:center;}
 footer img {margin:0 40px; padding:0 20px;}
+
+/*.donate grids*/
 .donate iframe {width:700px; height:500px;}
+.grid {display:table; width:100%; table-layout:fixed; border-spacing:1rem 0; border:1; border-color:#fff;}
+.col {display:table-cell; text-align:center;}
+.col-1 {width:30%;}
+.grid:nth-child(1) {background:#000; color:#fff;}
+.grid:nth-child(2) {background:#e5e4e2;}
+.grid:nth-child(3) {background:#FFD700;}
+.grid:nth-child(4) {background:#c0c0c0;}
+.grid:nth-child(5) {background:#cd7f32;}
+.benefits {text-align:left;}
+
 @media only screen and (max-width:600px) {
   ul li, .nav li a {display:block;}
   h1 {line-height:50px;}
