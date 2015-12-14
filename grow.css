@@ -28,7 +28,8 @@ footer img {margin:0 40px; padding:0 20px;}
 
 /*.donate grids*/
 .donate iframe {width:700px; height:500px;}
-.grid {display:table; max-width:100%; table-layout:fixed; border-spacing:1rem 0; border:1; border-color:#fff; color:#000;}
+.grid {display:flex; max-width:100%; table-layout:fixed; border-spacing:1rem 0; border:1; border-color:#fff; color:#000;}
+.grid-sub {margin-bottom:1rem;}
 .col {display:table-cell; text-align:center;}
 .col-1 {width:30%;}
 .grid:nth-child(5) {background:#000; color:#fff;}
@@ -43,4 +44,5 @@ footer img {margin:0 40px; padding:0 20px;}
   h1 {line-height:50px;}
   h2 {text-align:center;}
   header {border:none;}
+  .col {display:block;}
 }
