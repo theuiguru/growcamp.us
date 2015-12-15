@@ -39,7 +39,7 @@ footer img {margin:0 40px; padding:0 20px;}
 .benefits {text-align:left;}
 
 /*pay option*/
-input[type="text"], input[type="submit"] {width:500px; height:90px; padding:10px; border:0; font-size:3em; border-radius:10px;}
+.btn-danger {max-width:500px; height:90px; padding:10px; border:0; font-size:3em; border-radius:10px;}
 
 @media only screen and (max-width:600px) {
   ul li, .nav li a {display:block;}
