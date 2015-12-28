@@ -39,6 +39,7 @@ footer img {margin:0 40px; padding:0 20px;}
 .benefits {text-align:left;}
 
 /*pay option*/
+.required-message {display:none;}
 .pay {max-width:500px; width:100%; padding:10px !important; border:0 !important; font-size:3em !important; border-radius:10px !important;}
 
 @media only screen and (max-width:600px) {
