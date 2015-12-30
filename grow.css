@@ -27,7 +27,7 @@ footer {color:#333; padding:5em; text-align:center;}
 footer img {margin:0 40px; padding:0 20px;}
 form {text-align:left;}
 form>ul>li {margin-left:-45px; margin-right:45px;}
-form > textarea {max-width:500px;}
+textarea {max-width:500px;}
 /*.donate grids*/
 .donate iframe {width:700px; height:500px;}
 .grid {display:flex; max-width:100%; table-layout:fixed; color:#000;}
