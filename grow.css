@@ -9,7 +9,7 @@ ol li {margin:10px 0;}
 header {border-bottom:1px dotted #ccc; padding-bottom:30px;}
 header img {max-width:400px; width:100%;}
 h1 {font-family:'Indie Flower', cursive, sans-serif; font-size:3em; line-height:10px; float:left;}
-.date {float:none; font-weight:bold;} .countdown {color:#FF69B4; font-weight:bold;}
+.date {float:right; font-weight:bold;} .countdown {color:#FF69B4; font-weight:bold;}
 h2 {font-family: 'Oleo Script Swash Caps', cursive; font-weight:500; font-size:3em; font-style:italic; text-align:right; border-bottom:1px dashed #FF69B4; padding-bottom:10px;}
 .home>h2 {border:0; text-align:center;}
 .home img {max-width:300px; width:100%;}
