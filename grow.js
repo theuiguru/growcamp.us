@@ -8,6 +8,7 @@ function show_div(div_id) {
   document.querySelector('.donate').style.display = 'none';
   document.querySelector('.contact').style.display = 'none';
   document.querySelector(div_id).style.display = 'block';
+  return false;
 }
 function countdown() {
   now = new Date();
