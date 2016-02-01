@@ -23,7 +23,7 @@ h2 {font-family: 'Oleo Script Swash Caps', cursive; font-weight:500; font-size:3
 .about a, .info a, .donate a, .contact a, .rules a {color:#FF69B4; text-decoration:underline; font-weight:bold;}
 .contact > p:nth-child(2), .contact > p:nth-child(3), .info, .donate, .rules>p:nth-child(5) {text-align:center;}
 .contact > p:nth-child(5), .contact > p:nth-child(7) {text-align:right;}
-footer {color:#333; padding:5em; text-align:center;}
+footer {color:#333; font-size:2em; text-align:center;}
 footer img {margin:0 40px; padding:0 20px;}
 form {text-align:left;}
 form>ul>li {margin-left:-45px; margin-right:45px;}
