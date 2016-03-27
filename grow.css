@@ -18,6 +18,8 @@ h2 {font-family: 'Oleo Script Swash Caps', cursive; font-weight:500; font-size:3
 .home {position:relative; overflow:auto; display: block; height:100%; width:100%; text-align:center;}
 .about, .info, .speaker, .rules, .register, .donate, .contact {position:relative; overflow:auto; display: none; height:100%; width:100%;}
 .info img {max-width:500px; width:100%; text-align:center;}
+.info>p:nth-child(2) {text-align:left; float:left;}
+.info>p:nth-child(3) {text-align:right; float:right;}
 .speaker img {max-width:200px;}
 .speaker {text-align:center;}
 .about a, .info a, .donate a, .contact a, .rules a {color:#FF69B4; text-decoration:underline; font-weight:bold;}
